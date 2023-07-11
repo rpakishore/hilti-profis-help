@@ -42,4 +42,4 @@
   [opera_violentmonkey]: https://addons.opera.com/extensions/details/violent-monkey/
 
 <!-- Download links -->
-  [openuserjs_url]: <https://openuserjs.org/users/remaa> "https://openuserjs.org/users/remaa"
+  [openuserjs_url]: <https://openuserjs.org/scripts/remaa/Hilti_Profis_Help> "Download script from OpenuserJS"
