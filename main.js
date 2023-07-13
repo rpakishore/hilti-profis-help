@@ -111,8 +111,6 @@
             <li title="Use higher strength steel to improve its ability to withstand tension forces.">Increase Steel Yield Strength</li>
             <li title="Increase the cross-sectional area of the steel member to enhance its load-carrying capacity and resist tension failure.">Increase Steel Section Area</li>
             <li title="Reduce the spacing between steel members to distribute the applied tension load more effectively and minimize the risk of steel failure.">Decrease Steel Spacing</li>
-            <li title="Choose a steel type or grade that is specifically designed to withstand high tensile stresses and prevent steel failure.">Select Higher Grade/Strength Steel</li>
-            <li title="Implement strict quality control measures during welding to ensure strong and reliable connections that can withstand tension forces without failure.">Ensure High-Quality Welds</li>
             <li title="Provide sufficient and properly designed steel anchorage or connections to prevent steel failure at the interface between different structural elements.">Design Adequate Steel Anchorage/Connections</li>
             <li title="Design the structure in a way that allows for load redistribution and stress transfer to adjacent members, reducing the risk of localized tension steel failure.">Incorporate Load Redistribution Mechanisms</li>
           </ul>
@@ -126,7 +124,6 @@
             <li title="The distance from the edge of the concrete member to the anchor can significantly impact its performance. Increasing the edge distance can improve the anchor's resistance to concrete breakout failure.">Increase Edge Distance</li>
             <li title="Using a higher strength concrete can enhance its ability to resist breakout failure. Increasing the compressive strength of the concrete can help withstand higher tension forces.">Use Higher Concrete Strength</li>
             <li title="Increasing the depth at which the anchor is embedded in the concrete can provide a larger surface area for load transfer, reducing the risk of breakout failure.">Increase Embedment Depth</li>
-            <li title="Different anchor types, such as expansion anchors, adhesive anchors, or mechanical anchors, have varying resistance to concrete breakout failure. Selecting an anchor type specifically designed for tension loads and concrete breakout resistance can improve the overall performance.">Select Appropriate Anchor Type</li>
             <li title="The distance between anchors also plays a role in preventing concrete breakout failure. Decreasing the spacing between anchors can distribute the load more evenly, reducing the likelihood of failure.">Decrease Anchor Spacing</li>
             <li title="Incorporating steel reinforcement, such as rebar or anchor reinforcement, can enhance the overall strength and load-bearing capacity of the concrete and reduce the risk of breakout failure.">Incorporate Reinforcement</li>
           </ul>
@@ -139,7 +136,6 @@
             <li title="Improve the bond strength between the reinforcing steel and the surrounding concrete by using appropriate surface preparation techniques, such as roughening the steel surface or using mechanical anchors.">Increase Bond Strength</li>
             <li title="Increase the length of the steel reinforcement embedded in the concrete to enhance the bond strength and reduce the risk of bond failure.">Increase Embedment Length</li>
             <li title="Provide a thicker concrete cover over the reinforcing steel to enhance the bond between the steel and the concrete.">Increase Concrete Cover</li>
-            <li title="Utilize deformed steel bars or wire mesh that have irregular surface patterns to increase the bond strength with the concrete.">Use Deformed Reinforcement</li>
             <li title="Install transverse reinforcement, such as stirrups or ties, around the tensioned steel to enhance the bond strength and prevent bond failure.">Provide Transverse Reinforcement</li>
             <li title="Use high-quality concrete with appropriate mix design, ensuring adequate strength and proper curing, which can contribute to better bond between the steel and the concrete.">Improve Concrete Quality</li>
             <li title="Implement measures to minimize cracking in the concrete, such as proper joint design, crack control reinforcement, and appropriate construction techniques, to prevent bond failure.">Control Cracking</li>
@@ -168,9 +164,7 @@
             <li title="Increase the cross-sectional area of the shear steel to enhance its load-carrying capacity and resistance to shear failure.">Increase Shear Steel Area</li>
             <li title="Reduce the spacing between shear steel members to improve the shear resistance and prevent shear steel failure.">Decrease Shear Steel Spacing</li>
             <li title="Choose a shear steel type or grade that is specifically designed to withstand high shear stresses and prevent shear steel failure.">Select Appropriate Shear Steel Type/Grade</li>
-            <li title="Provide sufficient and properly designed shear steel anchorage or connections to ensure reliable load transfer and prevent shear steel failure at the connection points.">Ensure Proper Shear Steel Anchorage/Connections</li>
             <li title="Utilize shear reinforcement, such as stirrups or bent bars, to enhance the shear resistance and prevent shear steel failure in critical regions.">Incorporate Shear Reinforcement</li>
-            <li title="Use high-quality concrete with appropriate mix design, curing, and consolidation techniques to provide a strong and durable bond between the shear steel and the surrounding concrete, reducing the risk of shear steel failure.">Optimize Concrete Strength and Quality</li>
           </ul>
         </td>
       </tr>
