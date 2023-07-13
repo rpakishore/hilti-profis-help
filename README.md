@@ -13,7 +13,7 @@
 
 1. Open <a href="https://profisengineering.hilti.com/" target="_blank">Hilti Profis Calculator</a> in your __browser__ and go to new or existing anchor design
 
-2. Click the "Result Help" button that was added in the top right.
+2. Click the "Result Help" button that was added in the top right. (If the button does not show up, please refresh the page)
 
 ![Screenshot](assets/ezgif.com-optimize.gif)
 
